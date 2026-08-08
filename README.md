@@ -11,7 +11,7 @@ The trained **K-Nearest Neighbors (KNN)** model is integrated with a simple and 
 ## 🚀 Live Demo
 
 🔗 **Streamlit Application:**
-**[Paste your deployed Streamlit URL here]**
+**[Open Heart Disease Risk Predictor](https://heart-disease-detection-vs8xuvx32vtaxps6h2rugw.streamlit.app/)**
 
 > Try the live application to enter patient information and get a model-based heart disease risk prediction.
 
